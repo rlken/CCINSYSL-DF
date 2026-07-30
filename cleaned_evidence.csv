@@ -1,0 +1,101 @@
+timestamp,user_id,event_type,message
+2026-07-30 10:56:22.680209,user_9,login,User logged in from IP 192.168.1.218
+2026-07-30 11:09:22.680220,user_2,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 12:06:22.680222,user_3,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 12:17:22.680224,user_2,logout,logout event.
+2026-07-30 11:00:22.680224,user_10,file_access,UNKNOWN
+2026-07-30 12:22:22.680225,user_5,logout,logout event.
+2026-07-30 11:37:22.680226,user_5,network_connection,Connection to www.suspicious-site-1.com on port 8080
+2026-07-30 12:26:22.680227,user_5,logout,logout event.
+2026-07-30 11:43:22.680228,user_10,login,User logged in from IP 192.168.1.230
+2026-07-30 12:24:22.680229,user_1,login,User logged in from IP 192.168.1.130
+2026-07-30 12:17:22.680230,user_6,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:47:22.680231,user_10,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:47:22.680232,user_9,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_4.txt
+2026-07-30 11:32:22.680232,user_1,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:40:22.680233,user_2,logout,logout event.
+2026-07-30 11:00:22.680234,UNKNOWN,login,User logged in from IP 192.168.1.168
+2026-07-30 11:10:22.680234,user_8,logout,logout event.
+2026-07-30 12:14:22.680235,user_8,login,User logged in from IP 192.168.1.10
+2026-07-30 12:19:22.680236,user_8,network_connection,Connection to www.suspicious-site-1.com on port 8080
+2026-07-30 11:22:22.680237,user_7,login,User logged in from IP 192.168.1.82
+2026-07-30 11:21:22.680237,user_9,login,User logged in from IP 192.168.1.78
+2026-07-30 11:19:22.680238,user_2,logout,logout event.
+2026-07-30 11:38:22.680239,user_3,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 11:36:22.680240,user_10,login,User logged in from IP 192.168.1.31
+2026-07-30 12:04:22.680240,user_10,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 12:06:22.680241,user_4,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_4.txt
+2026-07-30 11:18:22.680242,user_9,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_4.txt
+2026-07-30 11:59:22.680243,user_9,login,User logged in from IP 192.168.1.11
+2026-07-30 12:05:22.680243,user_6,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:24:22.680244,user_9,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:16:22.680245,user_5,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_1.txt
+2026-07-30 11:09:22.680245,UNKNOWN,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:16:22.680246,user_2,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:34:22.680247,user_7,network_connection,Connection to www.suspicious-site-1.com on port 8080
+2026-07-30 10:59:22.680248,user_4,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_4.txt
+2026-07-30 12:01:22.680248,user_9,logout,logout event.
+2026-07-30 12:18:22.680249,user_9,login,User logged in from IP 192.168.1.201
+2026-07-30 12:21:22.680250,user_3,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 10:52:22.680250,user_5,login,User logged in from IP 192.168.1.132
+2026-07-30 11:13:22.680251,user_10,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 12:13:22.680252,user_5,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:42:22.680253,user_4,network_connection,Connection to www.suspicious-site-4.com on port 8080
+2026-07-30 11:16:22.680253,user_5,network_connection,Connection to www.suspicious-site-1.com on port 8080
+2026-07-30 11:47:22.680254,user_8,logout,logout event.
+2026-07-30 11:50:22.680255,user_3,login,User logged in from IP 192.168.1.235
+2026-07-30 11:06:22.680255,user_4,file_access,UNKNOWN
+2026-07-30 11:31:22.680256,user_10,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 12:11:22.680257,user_5,login,User logged in from IP 192.168.1.190
+2026-07-30 12:19:22.680258,user_8,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:25:22.680258,user_3,logout,logout event.
+2026-07-30 12:14:22.680259,user_10,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:56:22.680260,user_6,logout,logout event.
+2026-07-30 12:12:22.680261,user_2,login,User logged in from IP 192.168.1.238
+2026-07-30 11:25:22.680261,UNKNOWN,logout,logout event.
+2026-07-30 11:06:22.680262,user_10,logout,logout event.
+2026-07-30 12:17:22.680263,user_3,network_connection,UNKNOWN
+2026-07-30 12:19:22.680264,UNKNOWN,network_connection,Connection to www.suspicious-site-5.com on port 8080
+2026-07-30 11:09:22.680264,user_2,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 10:53:22.680265,user_2,login,User logged in from IP 192.168.1.124
+2026-07-30 11:02:22.680266,user_1,network_connection,Connection to www.suspicious-site-4.com on port 8080
+2026-07-30 12:09:22.680267,user_1,logout,UNKNOWN
+2026-07-30 11:11:22.680267,user_7,logout,logout event.
+2026-07-30 11:43:22.680268,user_5,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_4.txt
+2026-07-30 12:26:22.680269,user_9,network_connection,Connection to www.suspicious-site-2.com on port 8080
+2026-07-30 11:35:22.680269,user_6,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:55:22.680270,user_3,network_connection,Connection to www.suspicious-site-4.com on port 8080
+2026-07-30 11:12:22.680271,user_2,network_connection,Connection to www.suspicious-site-2.com on port 8080
+2026-07-30 12:25:22.680272,user_7,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 11:42:22.680272,user_5,logout,logout event.
+2026-07-30 11:12:22.680273,user_3,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 10:56:22.680274,user_2,login,User logged in from IP 192.168.1.123
+2026-07-30 11:23:22.680274,user_8,network_connection,Connection to www.suspicious-site-2.com on port 8080
+2026-07-30 12:08:22.680275,user_8,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 10:58:22.680276,user_2,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:57:22.680277,user_1,login,User logged in from IP 192.168.1.108
+2026-07-30 11:53:22.680277,UNKNOWN,logout,logout event.
+2026-07-30 11:37:22.680280,user_8,logout,logout event.
+2026-07-30 10:52:22.680281,user_1,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_2.txt
+2026-07-30 12:00:22.680282,UNKNOWN,login,User logged in from IP 192.168.1.79
+2026-07-30 10:52:22.680282,UNKNOWN,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 12:21:22.680283,user_6,logout,logout event.
+2026-07-30 11:28:22.680284,user_4,logout,logout event.
+2026-07-30 10:50:22.680285,user_7,network_connection,Connection to www.suspicious-site-2.com on port 8080
+2026-07-30 12:26:22.680285,user_7,login,User logged in from IP 192.168.1.78
+2026-07-30 11:57:22.680286,UNKNOWN,login,User logged in from IP 192.168.1.83
+2026-07-30 12:28:22.680287,user_1,network_connection,Connection to www.suspicious-site-5.com on port 8080
+2026-07-30 11:33:22.680287,user_5,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:48:22.680288,user_1,network_connection,Connection to www.suspicious-site-4.com on port 8080
+2026-07-30 11:59:22.680289,user_5,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:48:22.680289,user_3,logout,logout event.
+2026-07-30 11:33:22.680290,user_3,file_access,UNKNOWN
+2026-07-30 11:50:22.680291,user_8,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_3.txt
+2026-07-30 11:32:22.680292,user_8,file_access,Accessed sensitive document path: /home/user_10/docs/private_file_1.txt
+2026-07-30 12:03:22.680292,user_8,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:54:22.680293,user_2,network_connection,Connection to www.suspicious-site-2.com on port 8080
+2026-07-30 10:54:22.680294,user_9,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 12:11:22.680295,user_9,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.
+2026-07-30 11:32:22.680295,UNKNOWN,logout,logout event.
+2026-07-30 11:17:22.680296,user_2,network_connection,Connection to www.suspicious-site-3.com on port 8080
+2026-07-30 10:51:22.680297,UNKNOWN,login,User logged in from IP 192.168.1.191
