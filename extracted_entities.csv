@@ -1,0 +1,123 @@
+record_index,message,entity_text,entity_label
+0,User logged in from IP 192.168.1.218,IP,ORG
+1,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+2,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+6,Connection to www.suspicious-site-1.com on port 8080,8080,CARDINAL
+9,User logged in from IP 192.168.1.130,IP,ORG
+10,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+10,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+10,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+10,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+10,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+15,User logged in from IP 192.168.1.168,IP 192.168.1.168,ORG
+17,User logged in from IP 192.168.1.10,192.168.1.10,CARDINAL
+18,Connection to www.suspicious-site-1.com on port 8080,8080,CARDINAL
+19,User logged in from IP 192.168.1.82,IP,ORG
+19,User logged in from IP 192.168.1.82,192.168.1.82,CARDINAL
+20,User logged in from IP 192.168.1.78,IP,ORG
+20,User logged in from IP 192.168.1.78,192.168.1.78,CARDINAL
+22,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+23,User logged in from IP 192.168.1.31,IP,ORG
+23,User logged in from IP 192.168.1.31,192.168.1.31,CARDINAL
+27,User logged in from IP 192.168.1.11,IP,ORG
+27,User logged in from IP 192.168.1.11,192.168.1.11,CARDINAL
+28,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+28,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+28,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+28,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+28,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+29,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+29,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+29,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+29,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+29,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+31,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+31,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+31,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+31,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+31,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+32,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+32,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+32,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+32,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+32,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+33,Connection to www.suspicious-site-1.com on port 8080,8080,CARDINAL
+36,User logged in from IP 192.168.1.201,IP,ORG
+37,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+37,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+37,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+37,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+37,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+38,User logged in from IP 192.168.1.132,IP,ORG
+38,User logged in from IP 192.168.1.132,192.168.1.132,CARDINAL
+39,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+39,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+39,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+39,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+39,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+41,Connection to www.suspicious-site-4.com on port 8080,8080,CARDINAL
+42,Connection to www.suspicious-site-1.com on port 8080,8080,CARDINAL
+44,User logged in from IP 192.168.1.235,IP 192.168.1.235,ORG
+46,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+47,User logged in from IP 192.168.1.190,IP 192.168.1.190,ORG
+48,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+48,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+48,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+48,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+48,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+52,User logged in from IP 192.168.1.238,IP,ORG
+56,Connection to www.suspicious-site-5.com on port 8080,8080,CARDINAL
+57,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+58,User logged in from IP 192.168.1.124,IP 192.168.1.124,ORG
+59,Connection to www.suspicious-site-4.com on port 8080,8080,CARDINAL
+63,Connection to www.suspicious-site-2.com on port 8080,8080,CARDINAL
+65,Connection to www.suspicious-site-4.com on port 8080,8080,CARDINAL
+66,Connection to www.suspicious-site-2.com on port 8080,8080,CARDINAL
+69,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+70,User logged in from IP 192.168.1.123,IP 192.168.1.123,ORG
+71,Connection to www.suspicious-site-2.com on port 8080,8080,CARDINAL
+72,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+73,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+73,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+73,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+73,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+73,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+74,User logged in from IP 192.168.1.108,IP 192.168.1.108,ORG
+78,User logged in from IP 192.168.1.79,IP,ORG
+78,User logged in from IP 192.168.1.79,192.168.1.79,CARDINAL
+79,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+82,Connection to www.suspicious-site-2.com on port 8080,8080,CARDINAL
+83,User logged in from IP 192.168.1.78,IP,ORG
+83,User logged in from IP 192.168.1.78,192.168.1.78,CARDINAL
+84,User logged in from IP 192.168.1.83,IP,ORG
+84,User logged in from IP 192.168.1.83,192.168.1.83,CARDINAL
+85,Connection to www.suspicious-site-5.com on port 8080,8080,CARDINAL
+86,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+86,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+86,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+86,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+86,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+87,Connection to www.suspicious-site-4.com on port 8080,8080,CARDINAL
+88,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+88,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+88,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+88,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+88,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+93,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+93,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+93,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+93,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+93,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+94,Connection to www.suspicious-site-2.com on port 8080,8080,CARDINAL
+95,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+95,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+95,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+95,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+95,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+96,Email sent from Jane Doe to John Doe about Project X and the London office.,Email,PERSON
+96,Email sent from Jane Doe to John Doe about Project X and the London office.,Jane Doe,PERSON
+96,Email sent from Jane Doe to John Doe about Project X and the London office.,John Doe,PERSON
+96,Email sent from Jane Doe to John Doe about Project X and the London office.,Project X,ORG
+96,Email sent from Jane Doe to John Doe about Project X and the London office.,London,GPE
+98,Connection to www.suspicious-site-3.com on port 8080,8080,CARDINAL
+99,User logged in from IP 192.168.1.191,IP 192.168.1.191,ORG
